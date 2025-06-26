@@ -1,1 +1,3 @@
-Jane doe
+John Doe
+7024431234
+123 street rd.
